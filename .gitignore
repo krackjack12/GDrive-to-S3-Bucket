@@ -1,0 +1,8 @@
+__pycache__
+ExampleUser_accessKeys.csv
+ExampleUser_credentials.csv
+client_secret.json
+Logs.log
+config.ini
+.credentials
+.DS_Store
